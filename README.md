@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there! 👋 I'm Ken (Kenneth Wu) @kwu395
+
+I am a full-stack developer based in Auckland, New Zealand, passionate about building applications. 🌲
+
+🚀 Currently enrolled in the "Advanced Full Stack Developer (Cloud and AI)" accelerator course at Mission Ready, enhancing my skills! 
+
+💻 Here are some of my key skills and experiences:
+- Frontend: React, JavaScript (TypeScript), CSS
+- Backend: Node.js, Express.js, Docker, Kubernetes
+- Databases: MySQL, MongoDB
+- Collaboration: Worked closely with UX designers on webpage proejcts, ensuring seamless user experience
+
+😄 I enjoy collaborating with others, meeting new people, and am always up for tackling challenging problems! 
 
 <!--
 **kwu395/kwu395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
