@@ -1,10 +1,10 @@
 ### Hi there! 👋 I'm Ken (Kenneth Wu) @kwu395
 
-I am a full-stack developer based in Auckland, New Zealand, passionate about building applications. 🌲
+I am a full-stack developer based in Auckland, New Zealand, passionate about building web applications. 🌲
 
-🚀 Currently enrolled in the "Advanced Full Stack Developer (Cloud and AI)" accelerator course at Mission Ready, enhancing my skills! 
+🚀 Currently enrolled in the "Advanced Full Stack Developer (Cloud and AI)" accelerator course at Mission Ready! 
 
-💻 Here are some of my key skills and experiences:
+💻 My key skills and experiences:
 - Frontend: React, JavaScript (TypeScript), CSS
 - Backend: Node.js, Express.js, Docker, Kubernetes
 - Databases: MySQL, MongoDB
